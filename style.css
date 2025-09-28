@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MyFont';
-    src: url('font/cursivesans-bold.ttf') format('truetype');
+    src: url('font/krinkesregularpersonal.ttf') format('truetype');
   }
   
 .font-myfont{
@@ -18,7 +18,7 @@ font-family: 'vintage';
 
 @font-face {
   font-family: 'sunflower';
-  src: url('font/krinkesregularpersonal.ttf') format('truetype');
+  src: url('font/SunFlower.ttf') format('truetype');
 }
 
 .font-sunflower{
@@ -27,7 +27,7 @@ font-family: 'sunflower';
 
 @font-face {
   font-family: 'cursive';
-  src: url('font/SunFlower.ttf') format('truetype');
+  src: url('font/cursivesans-bold.ttf') format('truetype');
 }
 
 .font-cursive{

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('/font/KrinkesRegularPERSONAL.ttf') format('truetype');
+  }
+  
+.font-myfont{
+  font-family: 'myfont';
+}
+
+@font-face {
+  font-family: 'vintage';
+  src: url('/font/FinestVintagePersonalUseOny.ttf') format('truetype');
+}
+
+.font-vintage{
+font-family: 'vintage';
+}
+
+@font-face {
+  font-family: 'sunflower';
+  src: url('/font/SunFlower.ttf') format('truetype');
+}
+
+.font-sunflower{
+font-family: 'sunflower';
+}
+
+@font-face {
+  font-family: 'cursive';
+  src: url('/font/CursiveSans-Bold.ttf') format('truetype');
+}
+
+.font-cursive{
+font-family: 'cursive';
+}
+  
